@@ -15,11 +15,13 @@
 || tool |
 | ------ | ------ |
 | 개발언어 | ![issue badge](https://img.shields.io/badge/kotiln-1.3-blueviolet) ![issue badge](https://img.shields.io/badge/java-17-yellow)|
+| 개발환경 |<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>|
 | 서버 | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Mocky-2A2A2A?style=flat-square&logo=Mocky&logoColor=white"/>|
 | Open API | [Naver Maps JavaScript API v3](https://navermaps.github.io/maps.js/) |
 | 개발환경 | Windows |
 
 ## 3. Features
+
 ![002](https://github.com/bchoi2021/ForusApplication/assets/82089499/fd3d1711-b346-42dd-a8bd-d06a7aa1fbbf)
 ![003](https://github.com/bchoi2021/ForusApplication/assets/82089499/f5990728-21df-4feb-910e-1143299e1ab0)
 ![004](https://github.com/bchoi2021/ForusApplication/assets/82089499/66cd928f-9aee-4073-8ec9-84af08f9f88a)
@@ -29,3 +31,13 @@
 ## 4. System Architecture
 
 ![007](https://github.com/bchoi2021/ForusApplication/assets/82089499/8b5bd1b6-faff-4568-9027-da325175342c)
+
+
+## 5. 시연 영상
+
+## 6. Contributer
++ [서울여자대학교 데이터사이언스학과 최보현](https://github.com/bchoi2021)
++ [서울여자대학교 데이터사이언스학과 최지훈]()
++ [서울여자대학교 패션산업학과 최지원]()
++ [서울여자대학교 소프트웨어융합학과 허주희](https://github.com/JuHuiHeo)
++ [서울여자대학교 정보보호 허희윤]()
