@@ -14,20 +14,20 @@ class ButtonListActivity : AppCompatActivity() {
         var button2 : Button = findViewById<Button>(R.id.button2)
         var button3 : Button = findViewById<Button>(R.id.button3)
 
-        button1.setOnClickListener {
-            val intent = Intent(this, MypgActivity::class.java)
-            startActivity(intent)
-            Toast
-                .makeText(this, "마이 페이지", Toast.LENGTH_SHORT)
-                .show()
-        }
-        button2.setOnClickListener {
-            val intent = Intent(this, MappgActivity::class.java)
-            startActivity(intent)
-            Toast
-                .makeText(this, "지도 페이지", Toast.LENGTH_SHORT)
-                .show()
-        }
+//        button1.setOnClickListener {
+//            val intent = Intent(this, MypgActivity::class.java)
+//            startActivity(intent)
+//            Toast
+//                .makeText(this, "상품구매", Toast.LENGTH_SHORT)
+//                .show()
+//        }
+//        button2.setOnClickListener {
+//            val intent = Intent(this, MappgActivity::class.java)
+//            startActivity(intent)
+//            Toast
+//                .makeText(this, "지도 페이지", Toast.LENGTH_SHORT)
+//                .show()
+//        }
         button3.setOnClickListener {
             val intent = Intent(this, IntroActivity::class.java)
             startActivity(intent)

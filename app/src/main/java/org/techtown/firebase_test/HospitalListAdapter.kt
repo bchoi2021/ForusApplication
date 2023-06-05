@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.CenterCrop
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
-//import com.example.navermap.HospitalViewPagerAdapter.Companion.differ
+import org.techtown.firebase_test.HospitalViewPagerAdapter.Companion.differ
 import com.google.android.material.internal.ViewUtils.dpToPx
 
 class HospitalListAdapter : androidx.recyclerview.widget.ListAdapter<HospitalModel, HospitalListAdapter.ItemViewHolder>(differ) {

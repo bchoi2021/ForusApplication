@@ -3,4 +3,7 @@
     <string name="facebook_app_id">187995083137251</string>
     <string name="fb_login_protocol_scheme">fb187995083137251</string>
     <string name="default_notification_channel_id">0</string>
+    <string name="qustion">질문</string>
+    <string name="count_label">%d/%d</string>
+    <string name="submit">%s</string>
 </resources>
