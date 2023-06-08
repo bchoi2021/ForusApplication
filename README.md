@@ -35,9 +35,13 @@
 
 ## 5. 시연 영상
 
+![forusgif](https://github.com/bchoi2021/ForusApplication/assets/82089499/1076f97b-068e-44da-b8c0-8b85db214c95)
+
+📌 [전체영상 보러가기](https://youtu.be/vh8tyCnbS8s)
+
 ## 6. Contributer
 + [서울여자대학교 데이터사이언스학과 최보현](https://github.com/bchoi2021)
 + [서울여자대학교 데이터사이언스학과 최지훈]()
 + [서울여자대학교 패션산업학과 최지원]()
 + [서울여자대학교 소프트웨어융합학과 허주희](https://github.com/JuHuiHeo)
-+ [서울여자대학교 정보보호 허희윤]()
++ [서울여자대학교 정보보호 허희윤](https://m.blog.naver.com/PostList.naver?blogId=security-705)
